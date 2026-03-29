@@ -1,0 +1,31 @@
+# ADVISE R Package Requirements
+# Install all required packages with: install.packages(readLines("requirements.txt"))
+
+tidyr
+tidyverse
+readxl
+zoo
+lubridate
+abind
+caret
+pROC
+xgboost
+PRROC
+boot
+ggplot2
+gridExtra
+grid
+
+# Version Information (tested with):
+# R version: 4.1.0 or higher
+# 
+# Core packages:
+# - tidyverse (1.3.1): Data manipulation and visualization
+# - caret (6.0-88): Machine learning framework
+# - xgboost (1.4.1.1): Gradient boosting implementation
+# - pROC (1.17.0.1): ROC curve analysis
+# - PRROC (1.3.1): Precision-recall curves
+# - boot (1.3-28): Bootstrap confidence intervals
+#
+# Platform: x86_64-pc-linux-gnu (64-bit)
+# Operating System: Ubuntu 20.04+ or equivalent
