@@ -35,7 +35,7 @@
 #
 # License: MIT License (or specify your chosen license)
 #
-# Author: [Your name/institution]
+# Author: Nabeel Amiruddin
 # Date: 2026
 # Version: 1.0
 #
